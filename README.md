@@ -2,6 +2,8 @@
 
 Bu depo, 42 Kocaeli Piscine sürecinde çözülen ödevleri ve projeleri içerir. Her bir ödev veya proje, kendi klasöründe bulunmaktadır.
 
+![42](https://github.com/akcankaan/42-School-Piscine/assets/63432799/e2ee15bd-e6ae-4a38-af4c-478c314b31d8)
+
 ## Nasıl Başlanır?
 
 Her bir klasör, ilgili ödevin veya projenin adını taşımaktadır. İlgili klasöre giderek, çözüm dosyalarını ve gerekli bilgileri bulabilirsiniz.
