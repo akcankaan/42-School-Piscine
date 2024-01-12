@@ -4,10 +4,6 @@ Bu depo, 42 Kocaeli Piscine sürecinde çözülen ödevleri ve projeleri içerir
 
 ![42](https://github.com/akcankaan/42-School-Piscine/assets/63432799/e2ee15bd-e6ae-4a38-af4c-478c314b31d8)
 
-## Nasıl Başlanır?
-
-Her bir klasör, ilgili ödevin veya projenin adını taşımaktadır. İlgili klasöre giderek, çözüm dosyalarını ve gerekli bilgileri bulabilirsiniz.
-
 ## Proje ve Ödevler
 
 - [shell00](./shell00): shell00 projesi çözümleri
@@ -19,11 +15,3 @@ Her bir klasör, ilgili ödevin veya projenin adını taşımaktadır. İlgili k
 - [c05](./c05): c05 ödevi çözümleri
 - [c06](./c06): c06 ödevi çözümleri
 - [rush00](./rush00): rush00 projesi çözümleri
-
-## Katkıda Bulunma
-
-Eğer çözdüğünüz ödev veya projeleri paylaşmak istiyorsanız, lütfen bir çekme talebi (pull request) gönderin. Katkılarınızı bekliyoruz!
-
-## Lisans
-
-Bu proje [MIT lisansı](./LICENSE) altında lisanslanmıştır. Detaylı bilgi için lisans dosyasını inceleyebilirsiniz.
