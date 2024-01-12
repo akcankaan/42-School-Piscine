@@ -6,12 +6,12 @@ Bu depo, 42 Kocaeli Piscine sürecinde çözülen ödevleri ve projeleri içerir
 
 ## Proje ve Ödevler
 
-- [shell00](./shell00): shell00 projesi çözümleri
-- [c00](./c00): c00 ödevi çözümleri
-- [c01](./c01): c01 ödevi çözümleri
-- [c02](./c02): c02 ödevi çözümleri
-- [c03](./c03): c03 ödevi çözümleri
-- [c04](./c04): c04 ödevi çözümleri
-- [c05](./c05): c05 ödevi çözümleri
-- [c06](./c06): c06 ödevi çözümleri
-- [rush00](./rush00): rush00 projesi çözümleri
+- [shell00](./shell00): shell00
+- [c00](./c00): c00
+- [c01](./c01): c01
+- [c02](./c02): c02
+- [c03](./c03): c03
+- [c04](./c04): c04
+- [c05](./c05): c05
+- [c06](./c06): c06
+- [rush00](./rush00): rush00
