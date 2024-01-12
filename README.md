@@ -1,10 +1,10 @@
 # 42 Kocaeli Piscine
 
-Bu depo, 42 Kocaeli Piscine sürecinde çözülen ödevleri ve projeleri içerir. Her bir ödev veya proje, kendi klasöründe bulunmaktadır.
+This warehouse contains projects in the 42 Kocaeli Piscine process. Each assignment or project is in its own folder. My advice is to understand the projects and code them.
 
 ![42](https://github.com/akcankaan/42-School-Piscine/assets/63432799/e2ee15bd-e6ae-4a38-af4c-478c314b31d8)
 
-## Proje ve Ödevler
+## Tasks
 
 - [shell00](./shell00): shell00
 - [c00](./c00): c00
